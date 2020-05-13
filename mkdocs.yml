@@ -12,7 +12,6 @@ theme:
   palette:
     primary: white
     accent: indigo
-  logo: https://user-images.githubusercontent.com/101152/81295258-701e6b00-9070-11ea-9fbc-3f7d0c07c6d3.png
 
 extra_css:
   - mkdocs.css
